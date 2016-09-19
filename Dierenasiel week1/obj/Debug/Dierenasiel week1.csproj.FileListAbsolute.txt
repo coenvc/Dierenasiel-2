@@ -1,0 +1,10 @@
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week1\Dierenasiel week1\Dierenasiel week1\bin\Debug\Dierenasiel week1.exe.config
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\bin\Debug\Dierenasiel week1.exe.config
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\bin\Debug\Dierenasiel week1.exe
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\bin\Debug\Dierenasiel week1.pdb
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\obj\Debug\Dierenasiel week1.csprojResolveAssemblyReference.cache
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\obj\Debug\Dierenasiel_week1.Form1.resources
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\obj\Debug\Dierenasiel_week1.Properties.Resources.resources
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\obj\Debug\Dierenasiel week1.csproj.GenerateResource.Cache
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\obj\Debug\Dierenasiel week1.exe
+C:\Users\coenv\Desktop\S2\SE2\Opdrachten\Dierenasiel\Week2\Dierenasiel week1\Dierenasiel week1\obj\Debug\Dierenasiel week1.pdb
